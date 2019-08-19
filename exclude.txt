@@ -1,0 +1,12 @@
+^http://localhost
+^http://127(\.\d){3}
+^https://app.powerbi.com/*
+^https://workona.com*
+^https://outlook.office.com*
+^https://trello.com*
+^https://www.office.com*
+^https://ahrefs.com*
+^https://app.hubspot.com*
+^https://github.com*
+^https://www.linkedin.com*
+^https://pi.pardot.com*
